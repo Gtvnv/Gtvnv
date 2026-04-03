@@ -42,9 +42,3 @@ Python • TypeScript • C# • Spring Boot • React • Node.js • Computaç
 
 ---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Gtvnv" alt="Troféus do GitHub" /></a> </p>
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Gtvnv&show_icons=true&locale=en" alt="Estatísticas do GitHub" /></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gtvnv&show_icons=true&locale=en&layout=compact" alt="Top Linguagens no GitHub" /></p>
-
-<p align="right"><img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Ilustração de computador"> </p>

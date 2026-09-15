@@ -2,7 +2,7 @@
 
 Engenheiro de software focado em **backend, arquitetura e segurança**. Hoje transito entre Java/Spring, o ecossistema JS/TS e C#/.NET — sempre olhando pro sistema inteiro, não só pro código.
 
-- 💼 Atualmente: **Analista Desenvolvedor** na Agência do Japa (fullstack em um ERP industrial em produção) e **Estagiário de Desenvolvimento** na Rumo Soluções (C#/.NET, Angular/Ionic)
+- 💼 Atualmente: **Analista Desenvolvedor** na Agência do Japa (fullstack em um ERP industrial em produção) e **Desenvolvedor de Sustentação** na Rumo Soluções (C#/.NET, Angular/Ionic)
 - 🥋 Fora do código: instrutor de karatê e presidente da Associação Ventura e Vianna
 - 🎓 Cursando Engenharia de Software, com MBAs em Segurança da Informação e Gestão Financeira e Controladoria
 - 🌐 Portfólio completo: **[gtvnv.github.io](https://gtvnv.github.io)**

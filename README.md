@@ -4,7 +4,7 @@ Engenheiro de software focado em **backend, arquitetura e segurança**. Hoje tra
 
 - 💼 Atualmente: **Analista Desenvolvedor** na Agência do Japa (fullstack em um ERP industrial em produção) e **Desenvolvedor de Sustentação** na Rumo Soluções (C#/.NET, Angular/Ionic)
 - 🥋 Fora do código: instrutor de karatê e presidente da Associação Ventura e Vianna
-- 🎓 Cursando Engenharia de Software, com MBAs em Segurança da Informação e Gestão Financeira e Controladoria
+- 🎓 Cursando Engenharia de Software, pós-graduado com MBAs em Segurança da Informação e Gestão Financeira e Controladoria
 - 🌐 Portfólio completo: **[gtvnv.github.io](https://gtvnv.github.io)**
 - 📫 Contato: **dgprimeweb@gmail.com** · [LinkedIn](https://www.linkedin.com/in/gtvnv)
 

@@ -57,21 +57,19 @@ Suporte técnico em TI na R2 Internet, supervisão de estoque no Grupo CMD e man
 
 **Backend**
 
-<img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,nodejs,express,go,py,fastapi" alt="Java, Spring, C#, .NET, Node.js, Express, Go, Python, FastAPI" />
+<img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,nodejs,express,go,py,fastapi" alt="Java, Spring, C#, .NET, Node.js, Express, Go, Python, FastAPI" /> <img src="assets/icons/grpc.svg" width="48" alt="gRPC" title="gRPC" /> <img src="assets/icons/socketio.svg" width="48" alt="Socket.IO" title="Socket.IO" />
 
 **Frontend e mobile**
 
-<img src="https://skillicons.dev/icons?i=ts,angular,nextjs,react,tailwind,tauri" alt="TypeScript, Angular, Next.js, React, Tailwind CSS, Tauri" />
+<img src="https://skillicons.dev/icons?i=ts,angular,nextjs,react,tailwind,tauri" alt="TypeScript, Angular, Next.js, React, Tailwind CSS, Tauri" /> <img src="assets/icons/ionic.svg" width="48" alt="Ionic" title="Ionic" />
 
 **Dados e mensageria**
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,redis,prisma,rabbitmq" alt="PostgreSQL, MySQL, Redis, Prisma, RabbitMQ" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,redis,prisma,rabbitmq" alt="PostgreSQL, MySQL, Redis, Prisma, RabbitMQ" /> <img src="assets/icons/sqlserver.svg" width="48" alt="SQL Server" title="SQL Server" />
 
 **Cloud e DevOps**
 
-<img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,terraform,githubactions,linux" alt="AWS, Azure, Docker, Kubernetes, Terraform, GitHub Actions, Linux" />
-
-Também uso Ionic, SQL Server, Socket.IO, gRPC e Azure DevOps.
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,terraform,githubactions,linux" alt="AWS, Azure, Docker, Kubernetes, Terraform, GitHub Actions, Linux" /> <img src="assets/icons/azuredevops.svg" width="48" alt="Azure DevOps" title="Azure DevOps" />
 
 **Arquitetura:** Clean Architecture · Hexagonal · DDD · CQRS · Monólito modular e microsserviços
 

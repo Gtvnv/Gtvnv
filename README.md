@@ -4,7 +4,7 @@
 
 **Engenheiro de Software · Arquiteto de Soluções**
 
-Construo backends e produtos SaaS com foco em arquitetura limpa, segurança desde o design e viabilidade de negócio. Trabalho com Java/Spring, C#/.NET e TypeScript, do modelo de domínio até a operação em produção.
+Construo backends e produtos SaaS com foco em arquitetura limpa, segurança desde o design e viabilidade de negócio. Trabalho com Java/Spring, C#/.NET, TypeScript e Python, do modelo de domínio até a operação em produção.
 
 📍 Pedro Leopoldo, MG · 🟢 Aberto a oportunidades
 
@@ -19,7 +19,7 @@ Construo backends e produtos SaaS com foco em arquitetura limpa, segurança desd
 
 ## Sobre mim
 
-- 💼 **Analista Desenvolvedor** na Agência do Japa: fullstack no Zyntra ERP, com foco em controle de acesso (RBAC) e security by design.
+- 💼 **Analista Desenvolvedor** na Agência do Japa: fullstack no Zyntra ERP, com foco em controle de acesso (RBAC) e security by design, e desenvolvimento de agentes de IA.
 - 🛠️ **Desenvolvedor de Sustentação** na Rumo Soluções: APIs em C#/.NET, apps em Angular/Ionic e robôs de captura web para sistemas de pricing.
 - 🏗️ **Fundador da ZenithCode**, onde desenvolvo meus projetos autorais de arquitetura e segurança.
 - 🎓 Formado em Análise e Desenvolvimento de Sistemas, com MBAs em Segurança da Informação e em Gestão Financeira e Controladoria. Cursando Engenharia de Software.
@@ -49,11 +49,13 @@ Também uso Ionic, SQL Server, Socket.IO, gRPC e Azure DevOps.
 
 **Segurança:** Zero Trust · OAuth2/OIDC · JWT · RBAC/ABAC · OWASP · LGPD
 
+**IA:** Agentes · LLMs locais com Ollama · LangChain · RAG
+
 ## Projetos em destaque
 
 | Projeto | Status | O que é | Stack |
 |---|---|---|---|
-| **[Zyntra ERP](https://github.com/jovemegidio/Zyntra)** | 🟢 Em produção | ERP SaaS industrial multi-tenant, com clientes reais desde janeiro de 2026 | Node.js · MySQL · Socket.IO |
+| **[Zyntra ERP](https://github.com/jovemegidio/Zyntra)** | 🟢 Em produção | ERP SaaS industrial multi-tenant, com clientes reais desde janeiro de 2026 e assistente de IA que abre chamados de suporte | Node.js · MySQL · Socket.IO · Python |
 | **[AKPL](https://karatepl.zyntraerp.com.br)** | 🟢 No ar | Gestão acadêmica com 6 perfis de acesso. Roda a gestão da minha própria academia | Next.js 15 · Prisma · PostgreSQL |
 | **[MobiliTudo](https://github.com/Gtvnv/MobiliTudo)** | 🟢 No ar | Mapa colaborativo de acessibilidade urbana, com rotas que desviam de barreiras | Java 21 · Spring Boot · PostGIS |
 | **[Ultrafoot 26](https://remake-ultrafoot.vercel.app)** | 🟢 No ar | Remake de um clássico jogo de futebol, para desktop e mobile ([código](https://github.com/jovemegidio/Ultrafoot26)) | Next.js · Tauri · C# |

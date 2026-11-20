@@ -65,4 +65,4 @@ Os demais projetos, incluindo a pesquisa do ZenithCode OS, estão no **[portfól
 
 ## Linguagens nos repositórios públicos
 
-<img height="165" alt="Linguagens mais usadas nos repositórios públicos" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gtvnv&layout=compact&theme=transparent&hide_border=true" />
+<img height="165" alt="Linguagens mais usadas nos repositórios públicos" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gtvnv&layout=compact&theme=transparent&hide_border=true&langs_count=5&hide=html,css,scss,powershell" />

@@ -57,19 +57,47 @@ Suporte técnico em TI na R2 Internet, supervisão de estoque no Grupo CMD e man
 
 **Backend**
 
-<img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,nodejs,express,go,py,fastapi" alt="Java, Spring, C#, .NET, Node.js, Express, Go, Python, FastAPI" /> <img src="assets/icons/grpc.svg" width="48" alt="gRPC" title="gRPC" /> <img src="assets/icons/socketio.svg" width="48" alt="Socket.IO" title="Socket.IO" />
+<img src="https://skillicons.dev/icons?i=java" width="48" alt="Java" title="Java" />
+<img src="https://skillicons.dev/icons?i=spring" width="48" alt="Spring" title="Spring" />
+<img src="https://skillicons.dev/icons?i=cs" width="48" alt="C#" title="C#" />
+<img src="https://skillicons.dev/icons?i=dotnet" width="48" alt=".NET" title=".NET" />
+<img src="https://skillicons.dev/icons?i=nodejs" width="48" alt="Node.js" title="Node.js" />
+<img src="https://skillicons.dev/icons?i=express" width="48" alt="Express" title="Express" />
+<img src="https://skillicons.dev/icons?i=go" width="48" alt="Go" title="Go" />
+<img src="https://skillicons.dev/icons?i=py" width="48" alt="Python" title="Python" />
+<img src="https://skillicons.dev/icons?i=fastapi" width="48" alt="FastAPI" title="FastAPI" />
+<img src="assets/icons/grpc.svg" width="48" alt="gRPC" title="gRPC" />
+<img src="assets/icons/socketio.svg" width="48" alt="Socket.IO" title="Socket.IO" />
 
 **Frontend e mobile**
 
-<img src="https://skillicons.dev/icons?i=ts,angular,nextjs,react,tailwind,tauri" alt="TypeScript, Angular, Next.js, React, Tailwind CSS, Tauri" /> <img src="assets/icons/ionic.svg" width="48" alt="Ionic" title="Ionic" />
+<img src="https://skillicons.dev/icons?i=ts" width="48" alt="TypeScript" title="TypeScript" />
+<img src="https://skillicons.dev/icons?i=angular" width="48" alt="Angular" title="Angular" />
+<img src="https://skillicons.dev/icons?i=nextjs" width="48" alt="Next.js" title="Next.js" />
+<img src="https://skillicons.dev/icons?i=react" width="48" alt="React" title="React" />
+<img src="https://skillicons.dev/icons?i=tailwind" width="48" alt="Tailwind CSS" title="Tailwind CSS" />
+<img src="https://skillicons.dev/icons?i=tauri" width="48" alt="Tauri" title="Tauri" />
+<img src="assets/icons/ionic.svg" width="48" alt="Ionic" title="Ionic" />
 
 **Dados e mensageria**
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,redis,prisma,rabbitmq" alt="PostgreSQL, MySQL, Redis, Prisma, RabbitMQ" /> <img src="assets/icons/sqlserver.svg" width="48" alt="SQL Server" title="SQL Server" />
+<img src="https://skillicons.dev/icons?i=postgres" width="48" alt="PostgreSQL" title="PostgreSQL" />
+<img src="https://skillicons.dev/icons?i=mysql" width="48" alt="MySQL" title="MySQL" />
+<img src="https://skillicons.dev/icons?i=redis" width="48" alt="Redis" title="Redis" />
+<img src="https://skillicons.dev/icons?i=prisma" width="48" alt="Prisma" title="Prisma" />
+<img src="https://skillicons.dev/icons?i=rabbitmq" width="48" alt="RabbitMQ" title="RabbitMQ" />
+<img src="assets/icons/sqlserver.svg" width="48" alt="SQL Server" title="SQL Server" />
 
 **Cloud e DevOps**
 
-<img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,terraform,githubactions,linux" alt="AWS, Azure, Docker, Kubernetes, Terraform, GitHub Actions, Linux" /> <img src="assets/icons/azuredevops.svg" width="48" alt="Azure DevOps" title="Azure DevOps" />
+<img src="https://skillicons.dev/icons?i=aws" width="48" alt="AWS" title="AWS" />
+<img src="https://skillicons.dev/icons?i=azure" width="48" alt="Azure" title="Azure" />
+<img src="https://skillicons.dev/icons?i=docker" width="48" alt="Docker" title="Docker" />
+<img src="https://skillicons.dev/icons?i=kubernetes" width="48" alt="Kubernetes" title="Kubernetes" />
+<img src="https://skillicons.dev/icons?i=terraform" width="48" alt="Terraform" title="Terraform" />
+<img src="https://skillicons.dev/icons?i=githubactions" width="48" alt="GitHub Actions" title="GitHub Actions" />
+<img src="https://skillicons.dev/icons?i=linux" width="48" alt="Linux" title="Linux" />
+<img src="assets/icons/azuredevops.svg" width="48" alt="Azure DevOps" title="Azure DevOps" />
 
 **Arquitetura:** Clean Architecture · Hexagonal · DDD · CQRS · Monólito modular e microsserviços
 

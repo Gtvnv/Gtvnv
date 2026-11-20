@@ -17,13 +17,41 @@ Construo backends e produtos SaaS com foco em arquitetura limpa, segurança desd
 
 ---
 
+## Experiência
+
+### 💼 Analista Desenvolvedor de Software · Agência do Japa
+<sub>dez. 2025 – atual</sub>
+
+Desenvolvimento fullstack do [Zyntra ERP](https://zyntraerp.com.br), um ERP SaaS industrial multi-tenant em produção que cobre vendas, compras, PCP, financeiro, estoque, RH e emissão fiscal (NF-e via SEFAZ e CNAB 240).
+
+- Reforcei o controle de acesso (RBAC) dos módulos com security by design, reduzindo a superfície de ataque.
+- Diagnostico e corrijo módulos em produção e entrego funcionalidades de ponta a ponta, do frontend às APIs e regras de negócio.
+- Criei o Concord, chat interno do ERP inspirado no Discord.
+- Desenvolvi os agentes de IA Cleo, Bob e Evelyn. O Bob abre e acompanha chamados de TI direto na conversa do Concord.
+- Desenvolvi jogos digitais, como o Ultrafoot 26.
+
+### 🛠️ Desenvolvedor de Sustentação · Rumo Soluções
+<sub>jul. 2026 – atual</sub>
+
+Sustentação e evolução de sistemas em C#/.NET e Angular/Ionic.
+
+- Estruturo APIs e regras de negócio em C#/.NET.
+- Construo e corrijo interfaces web e mobile em Angular e Ionic, com foco em usabilidade.
+- Desenvolvo aplicações financeiras e robôs de captura web que alimentam sistemas de pricing de locadoras e concessionárias.
+
+### 🏗️ Fundador e Arquiteto de Software · ZenithCode
+<sub>out. 2025 – atual</sub>
+
+Projetos autorais de arquitetura e segurança, organizados sob o Z2A, um meta-framework de governança e ciclo de vida de código que é a base da minha pesquisa de mestrado. Inclui o AegisProtocol, o OmniShift, o Vertex, o Panoptes e o Nidhogg.
+
+### Antes do desenvolvimento
+
+Suporte técnico em TI na R2 Internet, supervisão de estoque no Grupo CMD e manutenção de eletrônicos na Turrek Informática. Fui promovido nos três empregos. Na R2, a promoção a técnico foi a mais rápida que a equipe já teve. No Grupo CMD, liderei a migração do controle de estoque de planilhas para um sistema eletrônico.
+
 ## Sobre mim
 
-- 💼 **Analista Desenvolvedor** na Agência do Japa: fullstack no Zyntra ERP, com foco em controle de acesso (RBAC) e security by design, e desenvolvimento de agentes de IA.
-- 🛠️ **Desenvolvedor de Sustentação** na Rumo Soluções: APIs em C#/.NET, apps em Angular/Ionic e robôs de captura web para sistemas de pricing.
-- 🏗️ **Fundador da ZenithCode**, onde desenvolvo meus projetos autorais de arquitetura e segurança.
 - 🎓 Formado em Análise e Desenvolvimento de Sistemas, com MBAs em Segurança da Informação e em Gestão Financeira e Controladoria. Cursando Engenharia de Software.
-- 🥋 Instrutor de karatê e presidente da Associação Ventura e Vianna.
+- 🥋 Instrutor de karatê e presidente da Associação Ventura e Vianna, que atua com ajuda social. A associação teve duas leis aprovadas em Pedro Leopoldo, entre elas o reconhecimento do karatê como patrimônio cultural.
 
 ## Stack
 
